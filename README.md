@@ -5,6 +5,8 @@ This repo contains a subset from the open dataset by Shantayanan Devarajan et al
 
 ### About:
 
-If a donor gives aid for a project that the recipient government would have undertaken anyway, then the aid is financing some expenditure other than the intended project. The notion that aid in this sense may be "fungible," while long recognized, has recently been receiving some empirical support. The paper "What Does Aid to Africa Finance?" focuses on Sub-Saharan Africa—the region with the largest GDP share of aid—and presents results that indicate that aid may be partially fungible, and suggests some reasons why.
+The database includes data from Botswana, Burkina Faso, Cameroon, Ethiopia, The Gambia, Ghana, Kenya, Lesotho, Liberia, Madagascar, Malawi, Mauritius, Nigeria, Sudan, Swaziland, Zaire, Zambia, and Zimbabwe.
 
-This database contains data used for the analysis.
+If a donor gives aid for a project that the recipient government would have undertaken anyway, then the aid is financing some expenditure other than the intended project. The notion that aid in this sense may be "fungible," while long recognized, has recently been receiving some empirical support. 
+
+

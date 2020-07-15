@@ -13,7 +13,7 @@ If a donor gives aid for a project that the recipient government would have unde
 
 ### Modifications:
 
-* The first 10 entries in the column '' have been deleted in order to create missing values for teaching purposes.
+* The first 10 entries in the column 'dcnlnothp' have been deleted in order to create missing values for teaching purposes.
 * Only the first 300 rows of the complete dataset are present in this subset.
 
 ### About the Instructor:

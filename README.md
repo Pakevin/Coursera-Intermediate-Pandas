@@ -1,7 +1,7 @@
 ![Guided_Project Coursera](https://img.shields.io/badge/Guided_Project-Coursera-blue.svg?style=plastic) ![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg?style=plastic) ![Pandas 1.0.4](https://img.shields.io/badge/Pandas-1.0.4-blue.svg?style=plastic) ![Jupyter_Notebook 6.0.2](https://img.shields.io/badge/Jupyter_Notebook-6.0.2-blue.svg?style=plastic)
 
 
-# Coursera- Intermediate Pandas
+# Intermediate Pandas Python Library for Data Science
 
 This repo contains a subset from the open dataset by Shantayanan Devarajan et al., World Bank. What Does Aid to Africa Finance? (WDAAF) 1970-1996. Ref. AFR_1996_WDAAF_v01_M. Dataset downloaded from https://microdata.worldbank.org/index.php/catalog/431/study-description on 07-14-2020. The data has been used to demonstrate data wrangling and pre-processing using Pandas.
 

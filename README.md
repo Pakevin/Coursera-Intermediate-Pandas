@@ -19,7 +19,7 @@ If a donor gives aid for a project that the recipient government would have unde
 ### About the Instructor:
 
 <p align="center">
-  <img width="" height="" src="https://scontent.fblr1-4.fna.fbcdn.net/v/t1.0-9/s960x960/105023518_2615103578751880_5389051389238009337_o.png?_nc_cat=108&_nc_sid=dd9801&_nc_ohc=lKFVQChMMRcAX_7Ml5O&_nc_ht=scontent.fblr1-4.fna&oh=319dc92107495526234bbb2e9741be4c&oe=5F453477">
+  <img width="" height="" src="https://scontent.fblr1-4.fna.fbcdn.net/v/t1.0-9/s960x960/105023518_2615103578751880_5389051389238009337_o.png?_nc_cat=108&_nc_sid=dd9801&_nc_ohc=-1QXhZqxPscAX_WVGUL&_nc_ht=scontent.fblr1-4.fna&oh=9824bc4a12d76ad7154f5270a893dcca&oe=5F8C6577">
 </p>
 
 Vinita Silaparasetty is passionate about the field of Artificial Intelligence, particularly, Machine Learning, Deep Learning and Neural Networks. She aims to share this passion with others.
